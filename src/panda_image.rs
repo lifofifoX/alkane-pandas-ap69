@@ -1,0 +1,1 @@
+pub const PANDA_IMAGE: &[u8] = include_bytes!("../panda.png"); 
